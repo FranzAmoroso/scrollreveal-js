@@ -2,7 +2,7 @@
 //install to terminal with script: npm install scrollreveal --save 
 
 //Import library scrollreveal
-import ScrollReveal from 'scrollreveal';
+/* import ScrollReveal from 'scrollreveal'; */
 
 // Crea un instanza ScrollReveal
 let sr = ScrollReveal();
